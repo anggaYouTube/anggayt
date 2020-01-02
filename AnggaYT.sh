@@ -17,11 +17,11 @@ enda='\033[0m'
 blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
-cowsay -f eyes " X. Rinz" | lolcat
-figlet -f slant "X. Rinz" | lolcat
+cowsay -f eyes " AnggaYT" | lolcat
+figlet -f slant "AnggaYT" | lolcat
 echo "    <=====================[]====================>" | lolcat
-echo "    <=====[       Tools By HAMDAN      ]=====>" | lolcat
-echo  "    <=====[  Concact Me : 087701025231  ]=====>" | lolcat
+echo "    <=====[       Tools By AnggaYT      ]=====>" | lolcat
+echo  "    <=====[  Concact Me : 08976341427  ]=====>" | lolcat
 echo "    <=====================[]====================>" | lolcat
 
 sleep 1
